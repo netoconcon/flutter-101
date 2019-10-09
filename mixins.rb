@@ -26,4 +26,4 @@ void main() {
 
 # extract and reuse functionality in multiple classes
 
-# ver https://dart.dev.guides/language/language-tour#adding-features-to-a-class-mixins
+# ver https://dart.dev/guides/language/language-tour#adding-features-to-a-class-mixins
